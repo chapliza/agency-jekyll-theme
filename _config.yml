@@ -22,7 +22,7 @@ description: "Write an awesome description for your new site here. You can edit 
 
 - name: Me
  pic: 2
-  position: Lead Marketer
+  position: Data Analyst
   social:
     - title: twitter
       url: #
@@ -57,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+ # - line: 3481 Melrose Place
+  - line: San Francisco, CA 94105
 
 # Build settings
 markdown: kramdown
