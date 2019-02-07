@@ -2,8 +2,8 @@ url: https://chapliza.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Small blog about Big data
-email: chapliza@icloud.com
+title: Awesome Title
+email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
@@ -12,17 +12,17 @@ people:
 - name: Kay Garland
   pic: 1
   position: Lead Designer
- social:
+  social:
     - title: twitter
       url: #
     - title: facebook
       url: #
     - title: stack-overflow
-     url: #
+      url: #
 
-- name: Me
- pic: 2
-  position: Data Analyst
+- name: Larry Parker
+  pic: 2
+  position: Lead Marketer
   social:
     - title: twitter
       url: #
@@ -58,7 +58,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: 3481 Melrose Place
-  - line: San Francisco, CA 94105
+  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
