@@ -8,7 +8,7 @@ img: my1.jpg
 thumbnail: my1.jpg
 alt: image-alt
 project-date: November 2018
-client: Start Bootstrap
+client: GitHub
 category: Python
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
