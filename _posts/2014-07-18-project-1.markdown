@@ -11,11 +11,7 @@ project-date: November 2018
 client: GitHub
 category: Python
 description: 
-A text-based game utilizing Python essentials
-* Strings and string manipulation
-* User-defined functions and variables
-* Conditional statements (if/elif/else)
-* Loops
+A text-based game utilizing Python essentials - strings and string manipulations, user-defined functions and variables, conditional statements (if/elif/else), loops.
 Play https://trinket.io/python3/68b1b4f38e
 Code https://github.com/chapliza/Lemonade_Stand 
 
