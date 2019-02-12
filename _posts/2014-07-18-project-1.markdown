@@ -11,7 +11,7 @@ project-date: November 2018
 client: GitHub
 category: Python
 description: 
-A text-based game utilizing Python essentials:
+A text-based game utilizing Python essentials
 * Strings and string manipulation
 * User-defined functions and variables
 * Conditional statements (if/elif/else)
