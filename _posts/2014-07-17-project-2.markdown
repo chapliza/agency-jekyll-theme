@@ -1,6 +1,6 @@
 ---
 title: R
-subtitle: Case analysis - text/wordcloud/mining
+subtitle: Text/Word Cloud/ Mining
 layout: default
 modal-id: 2
 date: 2019-02-05
