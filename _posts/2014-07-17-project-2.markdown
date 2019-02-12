@@ -4,8 +4,8 @@ subtitle: Text/Word Cloud/ Mining
 layout: default
 modal-id: 2
 date: 2019-02-05
-img: my2.jpg
-thumbnail: my2.jpg
+img: my2.png
+thumbnail: my2.png
 alt: image-alt
 project-date: February 2019
 client: GitHub
