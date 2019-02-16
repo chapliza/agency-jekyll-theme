@@ -8,8 +8,9 @@ img: my1.jpg
 thumbnail: my1.jpg
 alt: image-alt
 project-date: November 2018
-client: GitHub
-category: Python
+client: Play!
+category: Lemonade Stand
 description: A text-based game utilizing Python essentials - strings and string manipulations, user-defined functions and variables, conditional statements (if/elif/else), loops.
 link: https://trinket.io/python3/68b1b4f38e
+GitHub: https://github.com/chapliza/Lemonade_Stand
 ---
