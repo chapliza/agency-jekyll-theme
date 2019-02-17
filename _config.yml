@@ -17,27 +17,23 @@ people:
     - title: twitter
       url: https://twitter.com/chapliza
     - title: facebook
-      url: #
+      url: https://www.facebook.com/chapliza
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/chapliza/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/chapliza
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/chapliza
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/chapliza
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 388 Beale
+  - line: San Francisco, CA 90210
 
 # Build settings
 markdown: kramdown
