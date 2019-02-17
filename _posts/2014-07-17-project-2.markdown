@@ -8,8 +8,9 @@ img: my2.png
 thumbnail: my2.png
 alt: image-alt
 project-date: February 2019
-client: GitHub
-category: R
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+client: Presentation
+category: Business case
+description: A text-based game utilizing Python essentials - strings and string manipulations, user-defined functions and variables, conditional statements (if/elif/else), loops.
+link: https://docs.google.com/presentation/d/1i5pGwta60_u8z0lfRorNw2waBoIc8KlAOa-U2ujkH6c/edit?usp=sharing
+GitHub: https://github.com/chapliza/Busines_case_r
 ---
