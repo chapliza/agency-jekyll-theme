@@ -8,8 +8,8 @@ img: my2.png
 thumbnail: my2.png
 alt: image-alt
 project-date: February 2019
-client: Presentation
-category: Business case + code
+client: Interactive Word Cloud
+category: Business case + codes
 description: Air France Business case. Used statistics and graphical means to analyze variables in a large data set. Explored relationship between variables using scatter plots and correlation coefficients.
 link: https://chapliza.shinyapps.io/air_shiny/
 GitHub: https://github.com/chapliza/Business_case_r
