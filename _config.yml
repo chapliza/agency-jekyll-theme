@@ -20,6 +20,8 @@ people:
       url: https://www.facebook.com/chapliza
     - title: linkedin
       url: https://www.linkedin.com/in/chapliza/
+    - title: github
+      url: https://github.com/chapliza
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
