@@ -22,8 +22,8 @@ people:
       url: https://www.linkedin.com/in/chapliza/
     - title: github
       url: https://github.com/chapliza
-    - title: email
-      url: chapliza@icloud.com
+  author:
+    - email: chapliza@icloud.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -33,6 +33,7 @@ social:
     url: https://www.facebook.com/chapliza
   - title: github
     url: https://github.com/chapliza
+
 
 # Postal address (add as many lines as necessary)
 address:
