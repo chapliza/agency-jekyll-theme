@@ -10,7 +10,7 @@ alt: image-alt
 project-date: February 2019
 client: Presentation
 category: Business case + code
-description: Used statistics and graphical means to analyze variables in a large data set. Explored relationship between variables using scatter plots and correlation coefficients.
+description: Air France Business case. Used statistics and graphical means to analyze variables in a large data set. Explored relationship between variables using scatter plots and correlation coefficients.
 link: https://docs.google.com/presentation/d/1i5pGwta60_u8z0lfRorNw2waBoIc8KlAOa-U2ujkH6c/edit?usp=sharing
 GitHub: https://github.com/chapliza/Busines_case_r
 ---
