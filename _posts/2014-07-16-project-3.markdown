@@ -1,15 +1,16 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Pyhon
+subtitle: Rertrieving live data with URLs
 layout: default
-modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+modal-id: 2
+date: 2019-02-10
+img: my3.jpg
+thumbnail: my3.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+project-date: February 2019
+client: Check the bikes!
+category: Code
+description: A little tool I use instead of Ford Gobike map every day. This little program shows how many bikes are in front of my house and how many docks are left by my school. It saves 20% of the time needed to get the same information from the app!
+link: https://trinket.io/python3/f3e720428e
+GitHub: https://github.com/chapliza/Business_case_r
 ---
