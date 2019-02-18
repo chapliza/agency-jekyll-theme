@@ -1,5 +1,5 @@
 ---
-title: Pyhon
+title: Python
 subtitle: Rertrieving live data with URLs
 layout: default
 modal-id: 2
