@@ -10,7 +10,7 @@ alt: image-alt
 project-date: December 2018
 client: Check the Bikes!
 category: Code
-description: A little tool I use instead of Ford Gobike map every day. This little program shows how many bikes are in front of my house and how many docks are left by my school. It saves 20% of the time needed to get the same information from the app!
+description: A little tool I use instead of Ford Gobike map every day. This little program shows how many bikes are in front of my house and how many docks are left by my school. It saves 20% of the time needed to get the same information from Ford Gobike app!
 link: https://trinket.io/python3/f3e720428e
 GitHub: https://github.com/chapliza/Business_case_r
 ---
