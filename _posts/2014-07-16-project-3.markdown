@@ -4,8 +4,8 @@ subtitle: Retrieving live data with URLs
 layout: default
 modal-id: 3
 date: 2018-12-10
-img: my3.jpg
-thumbnail: my3.jpg
+img: my_3.jpg
+thumbnail: my_3.jpg
 alt: image-alt
 project-date: December 2018
 client: Check the Bikes!
