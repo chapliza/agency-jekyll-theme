@@ -11,6 +11,6 @@ project-date: March 2019
 client: Learn more!
 category: Code
 description: There are approximately 2,000 characters in A Song of Ice and Fire by George R.R. Martin. The task is to predict which characters in the series will live or die (based on the data from the first 5 books), and give data-driven recommendations on how to survive in Game of Thrones. A great way to practice some feature engineering, variable selection, and model development. No spoilers, just Data Science. *wink wink* 
-link: https://trinket.io/python3/f3e720428e
-GitHub: https://github.com/chapliza/Ford_Gobike
+link: https://github.com/chapliza/Machine-Learning-GOT/blob/master/README.md
+GitHub: https://github.com/chapliza/Machine-Learning-GOT
 ---
