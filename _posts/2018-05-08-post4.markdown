@@ -1,6 +1,6 @@
 ---
 title: Machine Learning
-subtitle: Predictive Modeling
+subtitle: Predictive Modeling "Game of Thrones"
 layout: default
 modal-id: 4
 date: 2018-05-08
