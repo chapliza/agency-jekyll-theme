@@ -4,8 +4,8 @@ subtitle: Predictive Modeling
 layout: default
 modal-id: 4
 date: 2018-05-08
-img: my_4.jpg
-thumbnail: my_4.jpg
+img: my4.jpg
+thumbnail: my4.jpg
 alt: image-alt
 project-date: March 2019
 client: Learn more!
