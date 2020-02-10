@@ -1,1 +1,17 @@
+---
+title: Tech Interview Workshop
+subtitle: Home-take assignment example
+layout: default
+modal-id: 4
+date: 2020-09-02
+img: my5.jpg
+thumbnail: my5.jpg
+alt: image-alt
+project-date: February 2020
+client: Learn more!
+category: Presentation
+description: 
+data: https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
+Presentation: https://docs.google.com/presentation/d/1imz7ThlD6DZrS7pHfzUXDQDGWyJyIKVwxMRlpXstZDw/edit?usp=sharing
+---
 
