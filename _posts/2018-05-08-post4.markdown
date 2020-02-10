@@ -2,7 +2,7 @@
 title: Machine Learning
 subtitle: Predictive Modeling "Game of Thrones"
 layout: default
-modal-id: 4
+modal-id: 3
 date: 2018-05-08
 img: my4.jpg
 thumbnail: my4.jpg
