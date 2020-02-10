@@ -4,8 +4,8 @@ subtitle: Home-take assignment example
 layout: default
 modal-id: 5
 date: 2020-09-02
-img: my5.jpg
-thumbnail: my5.jpg
+img: my_5.jpg
+thumbnail: my_5.jpg
 alt: image-alt
 project-date: February 2020
 client: Presentation
