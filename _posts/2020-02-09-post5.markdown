@@ -12,6 +12,6 @@ client: Presentation
 category: Code
 description: 
 link: https://docs.google.com/presentation/d/1imz7ThlD6DZrS7pHfzUXDQDGWyJyIKVwxMRlpXstZDw/edit?usp=sharing
-GitHub: https://github.com/chapliza/Machine-Learning-GOT
+GitHub: https://github.com/chapliza/Tech-Interview/blob/master/README.md
 
 ---
