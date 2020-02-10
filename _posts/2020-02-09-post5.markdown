@@ -8,10 +8,10 @@ img: my5.jpg
 thumbnail: my5.jpg
 alt: image-alt
 project-date: February 2020
-client: Learn more!
+client: Presentation
 category: Presentation
 description: 
 data: https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
-Presentation: https://docs.google.com/presentation/d/1imz7ThlD6DZrS7pHfzUXDQDGWyJyIKVwxMRlpXstZDw/edit?usp=sharing
+SQL code examples: https://docs.google.com/presentation/d/1imz7ThlD6DZrS7pHfzUXDQDGWyJyIKVwxMRlpXstZDw/edit?usp=sharing
 ---
 
