@@ -9,9 +9,9 @@ thumbnail: my5.jpg
 alt: image-alt
 project-date: February 2020
 client: Presentation
-category: Presentation
+category: Code
 description: 
-data: https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
-SQLcodeexamples: https://docs.google.com/presentation/d/1imz7ThlD6DZrS7pHfzUXDQDGWyJyIKVwxMRlpXstZDw/edit?usp=sharing
----
+link: https://docs.google.com/presentation/d/1imz7ThlD6DZrS7pHfzUXDQDGWyJyIKVwxMRlpXstZDw/edit?usp=sharing
+GitHub: https://github.com/chapliza/Machine-Learning-GOT
 
+---
