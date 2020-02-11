@@ -1,7 +1,7 @@
 ---
 title: Python
 subtitle: Retrieving live data with URLs
-layout: default
+layout: left
 modal-id: 3
 date: 2018-12-10
 img: my_3.jpg
